@@ -1,5 +1,9 @@
 # Card Spend Controls
 
+![build](https://github.com/myktep/card-spend-controls/actions/workflows/build.yml/badge.svg)
+
+**Company cards with rules.** Every employee gets their own card...
+
 **Company cards with rules.** Every employee gets their own card, and every payment is
 approved or declined in real time against the limits the finance team sets.
 
